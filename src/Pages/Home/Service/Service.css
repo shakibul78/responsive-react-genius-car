@@ -1,0 +1,12 @@
+.service{
+    background-color: beige;
+    border-radius: 20px;
+}
+.service img{
+    width: 300px;
+    height: 300px;
+    
+}
+.service-parson-name{
+    color: rgb(63, 42, 202);
+}
